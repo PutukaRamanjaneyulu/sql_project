@@ -27,3 +27,4 @@ This project is an SQL-based data analysis solution designed to analyze customer
 - customers.csv - Includes customer details such as customer ID, name, email, location, and purchase history.
 
 - books.csv - Holds book information like book ID, title, author, genre, price, and stock availability.
+### LinkedIn Url : https://www.linkedin.com/posts/putuka-ramanjaneyulu-2128r_online-bookstore-data-analysis-using-sql-activity-7295630010466324480-svyL?utm_source=share&utm_medium=member_desktop
