@@ -16,7 +16,7 @@ This project is an SQL-based data analysis solution designed to analyze customer
 
 ### Technologies Used
 
-- SQL (PostgreSQL)
+- SQL (MySQL version 8.0 CE )
 
 - Database Management System (DBMS)
   
